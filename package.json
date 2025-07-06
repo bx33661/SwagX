@@ -1,7 +1,7 @@
 {
-  "name": "swagX",
+  "name": "SwagX",
   "version": "0.1",
-  "description": "Swagger API 安全测试工具",
+  "description": "Swagger API 安全测试工具, 基于swagger-parser 和 axios 实现",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -16,7 +16,13 @@
     "testing",
     "api"
   ],
-  "author": "",
+  "author": "bx",
+  "email": "bx33661@gmail.com",
+  "url": "https://github.com/bx33661/SwagX/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bx33661/SwagX.git"
+  },
   "license": "MIT",
   "dependencies": {
     "swagger-parser": "^10.1.1",
